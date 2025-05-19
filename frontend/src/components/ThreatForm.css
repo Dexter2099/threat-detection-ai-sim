@@ -1,0 +1,17 @@
+form {
+  background: #fafafa;
+  padding: 1rem;
+  border-radius: 8px;
+  border: 1px solid #ddd;
+}
+
+form div {
+  margin-bottom: 10px;
+}
+
+input {
+  padding: 6px;
+  width: 80%;
+  border-radius: 4px;
+  border: 1px solid #ccc;
+}
