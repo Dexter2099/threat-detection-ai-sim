@@ -28,7 +28,7 @@ This app mimics a simplified cyber battlefield:
 ##  Features
 
 -  PyTorch AI model trained on mini-CIC-style threat data  
-- 🛰 Flask REST API: `POST /api/predict`  
+-  Flask REST API: `POST /api/predict`  
 -  React UI with modern styling and input controls  
 -  Real-time classification + confidence levels  
 -  Adversarial input ready (expandable to red team data)  
