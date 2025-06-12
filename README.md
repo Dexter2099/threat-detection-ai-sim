@@ -1,8 +1,8 @@
-# 🛰️ Threat Detection AI Simulation
+## Threat Detection AI Simulation
 
 A fullstack cyber intrusion detection simulation built to demonstrate AI/ML modeling, secure system logic, and real-time intelligence dashboarding. Designed to emulate key competencies sought by defense contractors like Lockheed Martin Australia.
 
-## 📌 Project Summary
+## Project Summary
 
 This project is a beginner-friendly, fullstack cyber-AI simulator
 Used to detect suspicious behavior in simulated logs
@@ -14,7 +14,7 @@ This app mimics a simplified cyber battlefield:
 - A Flask API processes requests and returns threat predictions  
 - A React dashboard interfaces with the model in real time
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 | Layer       | Tech                          |
 |-------------|-------------------------------|
@@ -25,7 +25,7 @@ This app mimics a simplified cyber battlefield:
 | Training    | Manual, synthetic log data    |
 | Deployment  | Localhost (dev)               |
 
-## 🧠 Features
+##  Features
 
 - 🔍 PyTorch AI model trained on mini-CIC-style threat data  
 - 🛰️ Flask REST API: `POST /api/predict`  
@@ -34,7 +34,7 @@ This app mimics a simplified cyber battlefield:
 - ⚔️ Adversarial input ready (expandable to red team data)  
 - 🛡️ Modular, beginner-friendly fullstack codebase  
 
-## 🚀 Quickstart
+##  Quickstart
 
 ```bash
 git clone https://github.com/yourusername/threat-detection-ai-sim.git
