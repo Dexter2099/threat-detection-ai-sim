@@ -1,6 +1,6 @@
 ## Threat Detection AI Simulation
 
-A fullstack cyber intrusion detection simulation built to demonstrate AI/ML modeling, secure system logic, and real-time intelligence dashboarding. Designed to emulate key competencies sought by defense contractors like Lockheed Martin Australia.
+A fullstack cyber intrusion detection simulation built to demonstrate AI/ML modeling, secure system logic, and real-time intelligence dashboarding. Designed to emulate key competencies sought by defense contractors.
 
 ## Project Summary
 
