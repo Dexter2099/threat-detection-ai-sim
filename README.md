@@ -50,7 +50,7 @@ python model/train_model.py
 python app.py
 
  Frontend (React)
- cd ../frontend
+ cd frontend
 npm install
 npm start
 
