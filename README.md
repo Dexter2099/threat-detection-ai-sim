@@ -8,7 +8,7 @@ This project is a beginner-friendly, fullstack cyber-AI simulator
 Used to detect suspicious behavior in simulated logs
 Powered by: React + Flask + PyTorch
 
-This app mimics a simplified cyber battlefield:  
+The aim of the app is to mimic a simplified cyber battlefield:  
 - Simulated network telemetry is fed to a backend AI model  
 - A PyTorch classifier determines if it's **normal** or **anomalous behavior**  
 - A Flask API processes requests and returns threat predictions  
